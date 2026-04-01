@@ -33,7 +33,7 @@ streamlit run App.py
 ```
 
 ## 📸 Screenshot
-![App Screenshot](Screenshot.png) 
+[View Screenshot](screenshot.png)
 
 ## ⚠️ Limitations
 
