@@ -33,7 +33,8 @@ streamlit run App.py
 ```
 
 ## 📸 Screenshot
-![App Screenshot](https://github.com/Fazil005/Ai-resume-analyzer/blob/main/screenshot.png?raw=true)
+![App Screenshot](screenshot.png)
+
 ## ⚠️ Limitations
 
 * Rule-based skill extraction
