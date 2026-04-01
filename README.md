@@ -33,7 +33,7 @@ streamlit run App.py
 ```
 
 ## 📸 Screenshot
-
+![App Screenshot](screenshot.png)
 ## ⚠️ Limitations
 
 * Rule-based skill extraction
