@@ -1,6 +1,6 @@
 # 📄 AI Resume Analyzer
 
-A Streamlit-based web application that analyzes resumes against job descriptions using semantic similarity and skill matching.
+A Streamlit-based web application that analyzes resumes against job descriptions using semantic similarity and skill matching.A lightweight AI-powered tool that helps job seekers evaluate resume-job fit and identify missing skills using semantic similarity.
 
 ## 🚀 Features
 
@@ -34,6 +34,14 @@ streamlit run App.py
 
 ## 📸 Screenshot
 [View Screenshot](Screenshot.png)
+
+## 🎯 Example Output
+
+- Match Score: 63.98%
+- Skills Found: Python, SQL, Pandas
+- Missing Skills: Tableau, Power BI
+
+This helps users quickly understand how well their resume aligns with a specific job and what skills they need to improve.
 
 ## ⚠️ Limitations
 
